@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/personapp/static/css/main.b100e6da.chunk.css",
+    "main.js": "/personapp/static/js/main.15d9060b.chunk.js",
+    "main.js.map": "/personapp/static/js/main.15d9060b.chunk.js.map",
+    "runtime-main.js": "/personapp/static/js/runtime-main.f9eabe6d.js",
+    "runtime-main.js.map": "/personapp/static/js/runtime-main.f9eabe6d.js.map",
+    "static/css/2.0624914a.chunk.css": "/personapp/static/css/2.0624914a.chunk.css",
+    "static/js/2.d1d79015.chunk.js": "/personapp/static/js/2.d1d79015.chunk.js",
+    "static/js/2.d1d79015.chunk.js.map": "/personapp/static/js/2.d1d79015.chunk.js.map",
+    "index.html": "/personapp/index.html",
+    "precache-manifest.7e8758102f746c69992f83ba92269b1d.js": "/personapp/precache-manifest.7e8758102f746c69992f83ba92269b1d.js",
+    "service-worker.js": "/personapp/service-worker.js",
+    "static/css/2.0624914a.chunk.css.map": "/personapp/static/css/2.0624914a.chunk.css.map",
+    "static/css/main.b100e6da.chunk.css.map": "/personapp/static/css/main.b100e6da.chunk.css.map",
+    "static/media/logo.svg": "/personapp/static/media/logo.25bf045c.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f9eabe6d.js",
+    "static/css/2.0624914a.chunk.css",
+    "static/js/2.d1d79015.chunk.js",
+    "static/css/main.b100e6da.chunk.css",
+    "static/js/main.15d9060b.chunk.js"
+  ]
+}
